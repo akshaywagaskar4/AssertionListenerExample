@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 public class AssertionIMPExample {
 	//
+	//Velocity
 	@Test
 	public void test1() {
 		String actual="abc";
